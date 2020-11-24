@@ -18,7 +18,20 @@ Coding for fun
 Recent cool thing - **[Readme Stats](https://github.com/anuraghazra/github-readme-stats)**
 <br><br>
 
- 
+<h2> Quick and Easy API with Python’s Flask</h2>
+<h2> A quick guide to serving a JSON file with Flask restful API</h2>
+<h3> by Thiago Carvalho</h3> 
+
+https://medium.com/python-in-plain-english/quick-and-easy-api-with-pythons-flask-dbf9eef79acc
+
+Terminal1:
+python3 -m server2
+
+go to localhost:5000/holidays
+
+Terminal2:
+python3 -m test2
+
 
 Deployment of the api to Vercel is covered - **[in this YouTube video](https://www.youtube.com/watch?v=n6d4KHSKqGk&feature=youtu.be&t=107&ab_channel=codeSTACKr)**
 
