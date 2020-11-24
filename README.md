@@ -25,13 +25,16 @@ Recent cool thing - **[Readme Stats](https://github.com/anuraghazra/github-readm
 https://medium.com/python-in-plain-english/quick-and-easy-api-with-pythons-flask-dbf9eef79acc
 
 Terminal1:
+```bash
 python3 -m server2
+```
 
 go to localhost:5000/holidays
 
 Terminal2:
+```bash
 python3 -m test2
-
+```
 
 Deployment of the api to Vercel is covered - **[in this YouTube video](https://www.youtube.com/watch?v=n6d4KHSKqGk&feature=youtu.be&t=107&ab_channel=codeSTACKr)**
 
